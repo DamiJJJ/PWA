@@ -3,7 +3,7 @@
     "background_color": "#aaaf6d",
     "display": "browser",
     "scope": "/",
-    "start_url": "/https://damijjj.github.io/PWA/",
+    "start_url": "/PWA/",
     "name": "Damian Mrozek coffee blog",
     "short_name": "coffeeAPP",
     "description": "Blog o kawie w ramach projektu WSB",
